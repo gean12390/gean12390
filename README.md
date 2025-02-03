@@ -1,4 +1,3 @@
-<p><color>ola mundo</color></p>
 
 <div style="display: flex">
   
@@ -17,5 +16,10 @@
 <hr>
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gean12390&show_icons=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gean12390&show_icons=true&theme=transparent">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gean12390&layout=compact&theme=transparent">
 </div>
+
+<hr>
+
+
