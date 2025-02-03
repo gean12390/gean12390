@@ -16,8 +16,8 @@
 <hr>
 <div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gean12390&show_icons=true&theme=transparent">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gean12390&layout=compact&theme=transparent">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gean12390&show_icons=true&theme=transparent&bg_color=0d1117">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gean12390&layout=compact&theme=transparent&bg_color=0d1117">
 </div>
 
 <hr>
