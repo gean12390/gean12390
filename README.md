@@ -1,4 +1,4 @@
-<p style="color: blue">ola mundo</p>
+<p><color>ola mundo</color></p>
 
 <div style="display: flex">
   
