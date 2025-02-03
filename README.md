@@ -16,7 +16,6 @@
 <hr>
 <div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gean12390&show_icons=true&theme=transparent&bg_color=0d1117&border_color=00a8ff&locale=pt-br">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gean12390&layout=compact&theme=transparent&bg_color=0d1117&border_color=00a8ff&locale=pt-br">
 </div>
 
