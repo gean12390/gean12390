@@ -1,6 +1,6 @@
 <hr>
 <p><strong>ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO - USCS</strong></p>
-<p>Atualmente cursando o 5°Semestre</p>
+<p>Atualmente cursando o 6°Semestre</p>
 
 
 <hr>
